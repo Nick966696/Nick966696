@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nick966696
-- 👀 I’m interested in math and physics
+- 👋 Hi, I’m Bowen
+- 👀 I’m interested in physics and deep learning projects
 
 <!---
 Nick966696/Nick966696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
